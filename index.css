@@ -1,0 +1,105 @@
+body{
+    background: rgba(0, 0, 0, 0.5);
+   margin: 0;
+}
+#h{
+   color: gray;
+    text-align: center;
+    margin-top: 130%;
+    font-size: 270%;
+}
+
+.para{
+    position: absolute;
+    background:transparent;
+    color: whitesmoke;
+    margin-left: 250px;
+   margin-top: -70%;
+   font-size: 25px;
+}
+
+#stmnt{
+
+}
+#teal{
+    background-color: teal;
+}
+
+.info{
+
+    position: absolute;
+    background:transparent;
+    color: whitesmoke;
+    margin-left: 400px;
+   margin-top: 100%;
+   font-size: 25px;
+}
+
+
+#la1{
+
+    color: rgb(94, 158, 243);
+}
+#la2{
+    color:rgb(94, 158, 243);
+}
+
+#btn{
+
+    margin-left: 120px;
+    border-radius: 100px;
+    color:teal;
+    font-weight: 700;
+    width: 200px;
+    height: 23px;
+}
+ 
+#message{
+
+    border-radius: 5%;
+    text-align: 39%;
+}
+
+#Video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+
+#noti{
+    position: absolute;
+    margin-bottom: 200px;
+}
+
+/*///////////////////////////////////////////
+:root {
+    --gutter: 20px;
+  }
+  
+  
+  
+  
+  
+  .hs {
+    display: grid;
+    grid-gap: calc(var(--gutter) / 2);
+    grid-template-columns: repeat(6, calc(50% - var(--gutter) * 2));
+    grid-template-rows: minmax(150px, 1fr);
+    
+    overflow-x: scroll;
+    scroll-snap-type: x proximity;
+    padding-bottom: calc(.75 * var(--gutter));
+    margin-bottom: calc(-.25 * var(--gutter));
+  }
+  
+ /////////*/
+  
+  ul  {
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  
