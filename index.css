@@ -112,5 +112,9 @@ body{
   #message{
       color: blue;
   }
+  footer{
+      color: green;
+      text-align: center;
+  }
   
   
