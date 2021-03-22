@@ -1,0 +1,138 @@
+.navi{
+    position: fixed;
+    background-color: rgba(240, 248, 255, 0.28);
+    color: gray;
+    text-align: center;
+    width: 115%;
+    margin-top: 90%;
+    font-size: 100%;
+    margin-left: -17%;
+    word-spacing: 10px;
+   
+    border-bottom: 2px solid gray;
+    
+}
+
+
+a:hover{
+
+    color: rgb(183, 228, 183);
+}
+
+
+
+
+.abm{
+    color: rgb(236, 236, 234);
+    text-decoration: none;
+}
+.sk{
+    color: rgb(236, 236, 234);
+    text-decoration: none;
+}
+
+.ex{
+    color: rgb(236, 236, 234);
+    text-decoration: none;
+}
+ 
+.port{
+    color: rgb(236, 236, 234);
+    text-decoration: none;
+}
+
+.edu{
+    color: rgb(236, 236, 234);
+    text-decoration: none;
+
+}
+.cont{
+    color: rgb(236, 236, 234);
+    text-decoration: none;
+}
+h2:hover{ color: wheat;}
+#sklT{
+    color: gray;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+#til{
+    color: rgb(211, 206, 206);
+    display: block;
+    font-size: 1.2em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#sklW{
+    color: gray;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#sklE{
+    color: gray;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lan{
+
+    color: rgb(144, 247, 144);
+    word-spacing: 60px;
+    text-align: center;
+}
+
+.lis{
+    
+    margin-left: 210px;
+    color: rgb(176, 245, 176);
+    font-size: 20px;
+    
+    
+  
+}
+#lk{
+    text-decoration: none;
+    color: rgb(233, 156, 156);
+    font-size: 33px;
+}
+#sch{
+    text-align: center;
+    color: indianred;
+}
+#pj{
+
+    color: gray;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
