@@ -136,3 +136,21 @@ h2:hover{ color: wheat;}
     font-weight: bold;
     text-align: center;
 }
+
+#pro{
+    position: absolute;
+    height: 93px;
+    border-radius: 99px;
+    margin-top: -422px;
+    margin-left: -240px;}
+
+
+#cap{
+    position: absolute;
+    height: 93px;
+    border-radius: 99px;
+    margin-top: -322px;
+    margin-left: -240px;
+}
+
+
